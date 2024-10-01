@@ -1,7 +1,7 @@
-## Amogus
-
 <!-- Import the component -->
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 
 <!-- Use it like any other HTML element -->
-<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb" ar environment-image="https://modelviewer.dev/shared-assets/environments/moon_1k.hdr" poster="https://modelviewer.dev/shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer alt="UOttawa AERO's previous aircraft design" src="plane.glb" ar environment-image="metro.hdr" poster="poster.webp" shadow-intensity="1" camera-controls touch-action="pan-y" camera-orbit="525.3deg 55.65deg 1.909m" style="position: absolute; width: 100%; height: 100%;"></model-viewer>
+
+
