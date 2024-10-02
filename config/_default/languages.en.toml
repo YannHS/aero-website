@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Aero uOttawa"
-copyright = "Aero uOttawa"
+copyright = "University of Ottawa Aerospace research and competition team"
 
 [params]
   dateFormat = "2 January 2006"
