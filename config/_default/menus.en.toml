@@ -15,11 +15,21 @@
   pageRef = "about"
   weight = 5
 
-
 [[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "Sponsors"
+  pageRef = "sponsors"
+  weight = 15
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 20
+
 
 [[main]]
   identifier = "search"
