@@ -1,13 +1,26 @@
-# We are honored to be supported by these fine orginisations:
+---
+title: "Sponsors"
+description: "A list of our sponsors"
+
+cascade:
+  showEdit: false
+  showSummary: true
+  showDate: false
+  showReadingTime: false
+  showAuthor: false
+---
+# We are honored to be supported by these fine organisations:
 &#8198;
-![CEED Logo](img/CEED.svg)
+{{< figure src="img/CEED.svg" href="https://ceed-uottawa.ca/" alt="CEED Logo" >}}
 &#8198;
-![Great Hobbies Logo](img/greathobbies.webp)
+{{< figure src="img/EEF.svg" href="https://www.uottawa.ca/faculty-engineering/student-experience/funding-student-initiatives" alt="EEF Logo" >}}
 &#8198;
-![Horus RC Logo](img/horusrc.png)
+{{< figure src="img/greathobbies.webp" href="https://www.greathobbies.com/" alt="Great Hobbies Logo" >}}
 &#8198;
-![eCalc logo](img/ecalc.png)
+{{< figure src="img/horusrc.png" href="https://www.horusrc.com/ca" alt="Horus RC Logo" >}}
 &#8198;
-![Winghelper logo](img/winghelper.png)
+{{< figure src="img/ecalc.png" href="https://www.ecalc.ch/index.htm" alt="eCalc logo" >}}
+&#8198;
+{{< figure src="img/winghelper.png" href="https://www.winghelper.com/default/" alt="Winghelper logo" >}}
 
 
