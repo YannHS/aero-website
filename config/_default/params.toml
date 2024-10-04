@@ -7,7 +7,7 @@
 
 colorScheme = "aero"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 defaultThemeColor = "#FFFFFF"
 
@@ -21,7 +21,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
+  logo = "img/icon.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
