@@ -9,9 +9,6 @@ cascade:
   showReadingTime: false
   showAuthor: false
 ---
-{{< alert >}}
-**Work In Progress** come back later
-{{< /alert >}}
 # We are honored to be supported by these fine organizations:
 {{< figure src="img/CEED.svg" href="https://ceed-uottawa.ca/" alt="CEED Logo">}}
 &#8198;

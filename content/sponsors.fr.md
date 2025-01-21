@@ -9,9 +9,6 @@ cascade:
   showReadingTime: false
   showAuthor: false
 ---
-{{< alert >}}
-**Travail en cours** revenez plus tard
-{{< /alert >}}
 # Nous sommes honorés d'être soutenus par ces organisations de qualité:
 {{< figure src="img/CGEC.svg" href="https://ceed-uottawa.ca/" alt="Logo de CGEC">}}
 &#8198;
