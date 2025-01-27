@@ -9,7 +9,7 @@ cascade:
   showReadingTime: false
   showAuthor: false
 ---
-# We are honored to be supported by these fine organizations:
+## We are honored to be supported by these fine organizations:
 {{< figure src="img/CEED.svg" href="https://ceed-uottawa.ca/" alt="CEED Logo">}}
 &#8198;
 {{< figure src="img/EEF.svg" href="https://www.uottawa.ca/faculty-engineering/student-experience/funding-student-initiatives" alt="EEF Logo" >}}
