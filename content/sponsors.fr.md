@@ -9,7 +9,7 @@ cascade:
   showReadingTime: false
   showAuthor: false
 ---
-# Nous sommes honorés d'être soutenus par ces organisations de qualité:
+## Nous sommes honorés d'être soutenus par ces organisations de qualité:
 {{< figure src="img/CGEC.svg" href="https://ceed-uottawa.ca/" alt="Logo de CGEC">}}
 &#8198;
 {{< figure src="img/EEF.svg" href="https://www.uottawa.ca/faculty-engineering/student-experience/funding-student-initiatives" alt="Logo de EEF" >}}

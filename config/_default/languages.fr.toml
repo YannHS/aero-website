@@ -10,11 +10,11 @@ copyright = "Équipe de recherche et de compétition de l'Université d'Ottawa d
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "My awesome website"
+  description = "Le site officiel de l'équipe de recherche et de compétition en aérospatiale de l'Université d'Ottawa. "
 
 [params.author]
   name = "L'équipe d'Aéro uOttawa"
-  image = "img/author.jpeg"
+  # image = "img/author.jpeg"
   # headline = "I'm only human"
   bio = "Les élèves se préparent à participer à des compétitions d'avions"
   links = [

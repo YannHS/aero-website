@@ -13,7 +13,11 @@ cascade:
 {{< button href="https://forms.office.com/Pages/ResponsePage.aspx?id=sdof1BV-_Uy1-nIA5U3ra-r31IOfmIRIqzSxxliuLVxUMjAzNUFRWE9XT0I2UElKVTdYRzZPUjQwUyQlQCN0PWcu" target="_self" >}}
 Postulez ici
 {{< /button >}}
+
+_Pour les étudiants actuellement inscrits à des cours à l'Université d'Ottawa_
 &#8198;
-## Ou pour toute autre question,
-Envoyez-nous un courriel à aerospace@uottawa.ca  
+## Pour toute autre question,
+Envoyez-nous un courriel à {{< icon "email" >}} aerospace@uottawa.ca  
+## Médias sociaux
+{{< icon "instagram" >}} - https://www.instagram.com/aerouottawa_/
 
