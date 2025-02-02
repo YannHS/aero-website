@@ -1,3 +1,5 @@
+<div style="visibility: hidden; height: 100px;"><a rel="me" href="https://mstdn.ca/@aero_uottawa">Mastodon</a></div>
+
 <!-- Import the component -->
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 <!-- Use it like any other HTML element -->
