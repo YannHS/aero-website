@@ -6,7 +6,7 @@ draft: false
 cascade:
   showEdit: false
   showSummary: true
-  showDate: false
+  showDate: true
   showReadingTime: false
   showAuthor: false
 
