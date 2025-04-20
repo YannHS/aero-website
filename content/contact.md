@@ -21,3 +21,5 @@ Send us an email at {{< icon "email" >}} aerospace@uottawa.ca
 &#8198;
 ## Outreach platforms
 {{< icon "instagram" >}} - https://www.instagram.com/aerouottawa_/
+
+{{< icon "mastodon" >}} - https://mstdn.ca/@aero_uottawa

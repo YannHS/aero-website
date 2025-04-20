@@ -21,3 +21,5 @@ Envoyez-nous un courriel à {{< icon "email" >}} aerospace@uottawa.ca
 ## Médias sociaux
 {{< icon "instagram" >}} - https://www.instagram.com/aerouottawa_/
 
+{{< icon "mastodon" >}} - https://mstdn.ca/@aero_uottawa
+
